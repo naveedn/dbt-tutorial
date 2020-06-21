@@ -1,0 +1,6 @@
+.dbt/jaffle-shop-dbt-user.json
+.dbt/.user.yml
+
+target/
+dbt_modules/
+logs/
