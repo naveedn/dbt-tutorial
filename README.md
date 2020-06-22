@@ -1,5 +1,10 @@
 Welcome to your new dbt project!
 
+# How to get Started:
+- Install version DBT `0.16.1` from [the docs here](https://docs.getdbt.com/docs/running-a-dbt-project/using-the-command-line-interface/macos#installing-different-versions-with-homebrew)
+- Get the google creds from me :)
+
+
 ### Using the starter project
 
 Try running the following commands:
